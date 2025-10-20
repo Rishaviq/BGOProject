@@ -1,13 +1,11 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.14.36203.30 d17.14
+VisualStudioVersion = 17.14.36203.30
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BGO.Models", "BGO.DTOs\BGO.Models.csproj", "{89E25286-2453-4305-AD1D-A0DE7B835396}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BGO.Services", "BGO.Services\BGO.Services.csproj", "{AD30AEEB-5A84-4B15-AECB-E7949C493D56}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "test", "test\test.csproj", "{284C8EBF-30E3-4BFE-8BE7-93F6793898DB}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BGO.WebAPI", "BGO.WebAPI\BGO.WebAPI.csproj", "{6DAEFC7C-440D-4C12-982A-B037CB35AAEE}"
 EndProject
@@ -25,10 +23,6 @@ Global
 		{AD30AEEB-5A84-4B15-AECB-E7949C493D56}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AD30AEEB-5A84-4B15-AECB-E7949C493D56}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AD30AEEB-5A84-4B15-AECB-E7949C493D56}.Release|Any CPU.Build.0 = Release|Any CPU
-		{284C8EBF-30E3-4BFE-8BE7-93F6793898DB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{284C8EBF-30E3-4BFE-8BE7-93F6793898DB}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{284C8EBF-30E3-4BFE-8BE7-93F6793898DB}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{284C8EBF-30E3-4BFE-8BE7-93F6793898DB}.Release|Any CPU.Build.0 = Release|Any CPU
 		{6DAEFC7C-440D-4C12-982A-B037CB35AAEE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{6DAEFC7C-440D-4C12-982A-B037CB35AAEE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6DAEFC7C-440D-4C12-982A-B037CB35AAEE}.Release|Any CPU.ActiveCfg = Release|Any CPU
